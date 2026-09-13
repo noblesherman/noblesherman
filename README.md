@@ -1,167 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Noble%20Sherman&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Founder%20%E2%80%A2%20Developer%20%E2%80%A2%20Penn%20State%20Technology%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/marquee-header.svg" width="100%" alt="Noble Sherman"/>
 
-<p>
-  <a href="https://www.psu.edu/">
-    <img src="https://img.shields.io/badge/Penn%20State-Enterprise%20Tech%20Integration-001E44?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-  <a href="https://boxfiveticketing.com/">
-    <img src="https://img.shields.io/badge/Founder-Box%20Five%20Ticketing-6C4CF1?style=for-the-badge&logo=ticktick&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/noblesherman/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2800&pause=900&color=6C4CF1&center=true&vCenter=true&width=560&lines=Building+ticketing+software+for+live+theater;Full+Stack+%E2%80%A2+Mobile+%E2%80%A2+Payments+%E2%80%A2+Automation;Studying+IST+at+Penn+State+University" alt="Typing SVG" />
+<img src="assets/status-ticker.svg" alt="now showing"/>
+
+<br/><br/>
+
+<i><a href="https://boxfiveticketing.com/">Box Five Ticketing</a> · <a href="https://nobleswebdesign.com/">Nobles Web Design</a> · <a href="https://www.linkedin.com/in/noblesherman/">LinkedIn</a> · Penn State, College of IST '30</i>
 
 </div>
 
-<br>
+<br/>
 
-## 👋 About Me
+<img src="assets/act-1-about.svg" width="100%" alt="Act I — About Me"/>
 
-I'm a student at **Penn State University**, studying Enterprise Technology Integration in the College of Information Sciences and Technology — and I build software for real organizations, real users, and real problems.
+<br/>
 
-I founded and develop **Box Five Ticketing**, a commercial ticketing and box office platform built for schools, theaters, and live event organizations. My work spans web development, mobile apps, payment infrastructure, digital ticketing, automation, hardware integrations, and technical operations.
+I'm a student at **Penn State University**, studying Enterprise Technology Integration in the College of Information Sciences and Technology. Outside of class, I build software for real organizations, real users, and real problems — mostly ones involving a box office.
 
-> *"Your whole box office, built for community theatre."*
+I founded and run **Box Five Ticketing**, a commercial ticketing and box office platform built for schools, theaters, and live event organizations. That work spans full-stack web, mobile apps, payment infrastructure, digital ticketing, automation, and the occasional piece of hardware that has no business being as finicky as it is.
 
-A large portion of my production work lives in private repositories, since it supports commercial products and client systems.
+A good chunk of what I build lives in private repos, since it backs real commercial products and client systems — so consider this profile the lobby, not the whole theater.
 
-<br>
+<div align="center">
 
-## 🛠️ What I'm Building
+```
+ ┌─────────────────────────────────────┐
+  ·  ADMIT ONE          NO. 000005     ·
+ │                                     │
+  ·  NOBLE SHERMAN                     ·
+ │  FOUNDER · DEVELOPER · TECHNICIAN   │
+  ·  SEAT: BOX FIVE                    ·
+ │                                     │
+  ·  "your whole box office, built     ·
+ │      for community theatre"        │
+ └─────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<img src="assets/act-2-building.svg" width="100%" alt="Act II — What I'm Building"/>
+
+<br/>
 
 <table>
 <tr>
 <td width="34%" valign="top">
 
-### 🎟️ Box Five Ticketing
+**🎟️ Box Five Ticketing**
 
-A full platform for theater and live event organizations.
+The main production. A full box-office platform for theaters and live event organizations:
 
-- Online ticket sales & reserved seating
-- Box office operations & scanning
-- Stripe payments + Stripe Connect
+- Online sales + reserved seating
+- Box office ops + mobile scanning
+- Stripe payments & Stripe Connect
 - Tap to Pay on iPhone
 - Apple & Google Wallet tickets
-- Donations, reporting & analytics
+- Donations, reporting, analytics
+
+<img src="assets/ticket-scan.svg" alt="scanned"/>
 
 *Production source is private.*
-
-<a href="https://boxfiveticketing.com/"><img src="https://img.shields.io/badge/Visit-boxfiveticketing.com-6C4CF1?style=flat-square" /></a>
 
 </td>
 <td width="33%" valign="top">
 
-### 🎭 Theater Technology
+**🎭 Theater Technology**
 
-Software and technical systems supporting live theater organizations.
+The backstage work — software and systems that keep a live show running:
 
-- Theater ticketing platforms
-- Reserved seat maps
-- Administrative dashboards
+- Ticketing platforms + seat maps
+- Admin dashboards
 - Payment workflows
 - Production websites
 - Digital ticket systems
 
-Also hands-on with theatrical lighting and live event technology.
+Plus hands-on time with theatrical lighting and live event tech.
 
 </td>
 <td width="33%" valign="top">
 
-### 🌐 Nobles Web Designs
+**🌐 Nobles Web Designs**
 
-Freelance web design shop for small businesses and nonprofits.
+The side stage — a freelance shop building sites for small businesses and nonprofits:
 
-- Custom sites for local businesses & nonprofits
-- Client work end-to-end, design through launch
-- Evolving stack toward Next.js + Supabase
+- Custom sites, design through launch
+- Local businesses & nonprofit clients
+- Moving the stack toward Next.js + Supabase
 
-<a href="https://nobleswebdesign.com/"><img src="https://img.shields.io/badge/Visit-nobleswebdesign.com-111111?style=flat-square" /></a>
+[nobleswebdesign.com →](https://nobleswebdesign.com/)
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-## 💻 Technology
+<img src="assets/act-3-tech.svg" width="100%" alt="Act III — Crew and Equipment"/>
 
-<div align="center">
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite" />
-
-<br><br>
-
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
-
-<br><br>
-
-**Mobile** — React Native • Expo • iOS • Android
-<br>
-<img src="https://skillicons.dev/icons?i=react" />
-
-<br><br>
-
-**Development**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare" />
-
-<br><br>
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js" />
-
-</div>
-
-<br>
-
-## 🚀 Selected Projects
+<br/>
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎟️ Box Five Ticketing
-Commercial ticketing and box office software for schools and community theaters.
-
-<img src="https://img.shields.io/badge/-React-6C4CF1?style=flat-square" /> <img src="https://img.shields.io/badge/-React%20Native-6C4CF1?style=flat-square" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square" /> <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square" /> <img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square" />
-
-*Private production repository*
-
-</td>
-<td width="33%" valign="top">
-
-### 📢 Rose Tree Announcer
-A Raspberry Pi based automated announcement system built for the Rose Tree Park Summer Festival.
-
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square" /> <img src="https://img.shields.io/badge/-GPIO-8A2BE2?style=flat-square" /> <img src="https://img.shields.io/badge/-Automation-111111?style=flat-square" />
-
-</td>
-<td width="33%" valign="top">
-
-### 🎭 Penncrest Theater
-A full-stack theater platform supporting ticketing and digital operations for a live theater program.
-
-<img src="https://img.shields.io/badge/-React-6C4CF1?style=flat-square" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square" /> <img src="https://img.shields.io/badge/-Payments-635BFF?style=flat-square" /> <img src="https://img.shields.io/badge/-Seat%20Maps-111111?style=flat-square" />
-
-</td>
-</tr>
+<tr><td><b>Front of House</b><br/><sub>frontend</sub></td><td><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite"/></td></tr>
+<tr><td><b>Back of House</b><br/><sub>backend</sub></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma"/></td></tr>
+<tr><td><b>Touring Company</b><br/><sub>mobile</sub></td><td><img src="https://skillicons.dev/icons?i=react"/> React Native · Expo · iOS · Android</td></tr>
+<tr><td><b>Stage Management</b><br/><sub>tooling</sub></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare"/></td></tr>
+<tr><td><b>Script</b><br/><sub>languages</sub></td><td><img src="https://skillicons.dev/icons?i=java,python,ts,js"/></td></tr>
 </table>
 
-<br>
+<br/>
 
-## 🎚️ Beyond Software
+<img src="assets/act-4-projects.svg" width="100%" alt="Act IV — Selected Projects"/>
 
-My technical experience also includes live event and audiovisual systems:
+<br/>
+
+| Show | Genre | Synopsis |
+|---|---|---|
+| **🎟️ Box Five Ticketing** | React · React Native · Node · PostgreSQL · Prisma · Stripe | Commercial ticketing and box-office software for schools and community theaters. Private production repo. |
+| **📢 Rose Tree Announcer** | Python · Raspberry Pi · GPIO | A Raspberry Pi based automated announcement system built for the Rose Tree Park Summer Festival. |
+| **🎭 Penncrest Theater** | React · TypeScript · PostgreSQL · Payments | Full-stack ticketing and digital-ops platform for a live theater program, seat maps included. |
+
+<br/>
+
+<img src="assets/act-5-beyond.svg" width="100%" alt="Act V — Beyond Software"/>
+
+<br/>
+
+Not everything I do compiles. My hands-on experience also covers:
 
 <table>
 <tr>
@@ -182,41 +151,38 @@ My technical experience also includes live event and audiovisual systems:
 </tr>
 </table>
 
-I like building software — but I also like seeing it survive contact with actual humans.
+I like building software — but I like it more once it's survived contact with an actual audience, an actual house manager, and an actual Wi-Fi router held together with gaff tape.
 
-<br>
+<br/>
 
-## 📍 Currently
+<img src="assets/act-6-currently.svg" width="100%" alt="Intermission — Currently"/>
+
+<br/>
+
+**Now playing:**
+- 🎓 Studying Enterprise Technology Integration at Penn State
+- 🚀 Building Box Five Ticketing
+- 💻 Sharpening skills across software engineering, IT, product, data, and technical consulting
+- 🔎 House lights up for **Summer 2027** technology internships
+
+<br/>
+
+<img src="assets/act-7-connect.svg" width="100%" alt="Curtain Call — Get In Touch"/>
+
+<br/>
 
 | | |
 |---|---|
-| 🎓 | Studying Enterprise Technology Integration at Penn State University |
-| 🚀 | Building Box Five Ticketing |
-| 💻 | Expanding my experience in software engineering, IT, product development, data, and technical consulting |
-| 🔎 | Seeking **Summer 2027** technology internship opportunities |
+| **LinkedIn** | [linkedin.com/in/noblesherman](https://www.linkedin.com/in/noblesherman/) |
+| **Box Five Ticketing** | [boxfiveticketing.com](https://boxfiveticketing.com/) |
+| **Nobles Web Design** | [nobleswebdesign.com](https://nobleswebdesign.com/) |
 
-<br>
-
-## 🔗 Connect
+<br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/noblesherman/">
-  <img src="https://img.shields.io/badge/LinkedIn-Noble%20Sherman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://boxfiveticketing.com/">
-  <img src="https://img.shields.io/badge/Box%20Five-Ticketing-6C4CF1?style=for-the-badge" />
-</a>
-<a href="https://nobleswebdesign.com/">
-  <img src="https://img.shields.io/badge/Portfolio-Nobles%20Web%20Design-111111?style=for-the-badge" />
-</a>
+<img src="assets/footer-marquee.svg" width="100%" alt="Curtain Call"/>
 
-</div>
+<sub>Penn State University · College of Information Sciences and Technology · Class of 2030</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-<div align="center">
-<sub><strong>Building software people actually use.</strong></sub>
-<br>
-<sub>Penn State University • College of Information Sciences and Technology • Class of 2030</sub>
 </div>

@@ -1,0 +1,56 @@
+<svg width="460" height="46" viewBox="0 0 460 46" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .panel { fill: #0c0a08; stroke: #3a2e1d; stroke-width: 1.5; }
+      .word {
+        font-family: 'Courier New', monospace;
+        font-weight: 700;
+        font-size: 15px;
+        fill: #f6c453;
+        letter-spacing: 2px;
+      }
+      text.word { opacity: 0; }
+      
+      @keyframes word0 {
+        0%   { opacity: 0; }
+        0.00%  { opacity: 0; transform: translateY(6px); }
+        3.65% { opacity: 1; transform: translateY(0); }
+        21.35% { opacity: 1; transform: translateY(0); }
+        25.00%   { opacity: 0; transform: translateY(-6px); }
+        100% { opacity: 0; }
+      }
+
+      @keyframes word1 {
+        0%   { opacity: 0; }
+        25.00%  { opacity: 0; transform: translateY(6px); }
+        28.65% { opacity: 1; transform: translateY(0); }
+        46.35% { opacity: 1; transform: translateY(0); }
+        50.00%   { opacity: 0; transform: translateY(-6px); }
+        100% { opacity: 0; }
+      }
+
+      @keyframes word2 {
+        0%   { opacity: 0; }
+        50.00%  { opacity: 0; transform: translateY(6px); }
+        53.65% { opacity: 1; transform: translateY(0); }
+        71.35% { opacity: 1; transform: translateY(0); }
+        75.00%   { opacity: 0; transform: translateY(-6px); }
+        100% { opacity: 0; }
+      }
+
+      @keyframes word3 {
+        0%   { opacity: 0; }
+        75.00%  { opacity: 0; transform: translateY(6px); }
+        78.65% { opacity: 1; transform: translateY(0); }
+        96.35% { opacity: 1; transform: translateY(0); }
+        100.00%   { opacity: 0; transform: translateY(-6px); }
+        100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="458" height="44" rx="6" class="panel"/>
+  <text x="230.0" y="29.0" text-anchor="middle" class="word" style="animation: word0 9.6s linear infinite;">TICKETING SOFTWARE</text>
+  <text x="230.0" y="29.0" text-anchor="middle" class="word" style="animation: word1 9.6s linear infinite;">AV TECHNICIAN</text>
+  <text x="230.0" y="29.0" text-anchor="middle" class="word" style="animation: word2 9.6s linear infinite;">FREELANCE WEB DESIGN</text>
+  <text x="230.0" y="29.0" text-anchor="middle" class="word" style="animation: word3 9.6s linear infinite;">PENN STATE '30</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg width="1000" height="66" viewBox="0 0 1000 66" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .paper { fill: #f2e6c9; }
+      .hole { fill: #14110d; }
+      .edge {
+        fill: none;
+        stroke: #3a2e1d;
+        stroke-width: 2;
+        stroke-dasharray: 6 7;
+        animation: march 2.4s linear infinite;
+      }
+      @keyframes march {
+        to { stroke-dashoffset: -26; }
+      }
+      .act {
+        font-family: 'Courier New', monospace;
+        font-weight: 700;
+        font-size: 11px;
+        fill: #9c7a34;
+        letter-spacing: 3px;
+      }
+      .ttl {
+        font-family: Georgia, 'Times New Roman', serif;
+        font-weight: 700;
+        font-size: 21px;
+        fill: #201808;
+        letter-spacing: 1.5px;
+      }
+    </style>
+  </defs>
+
+  <rect x="10" y="8" width="980" height="50" rx="4" class="paper"/>
+  <rect x="10" y="8" width="980" height="50" rx="4" class="edge"/>
+
+  <circle cx="10" cy="33.0" r="9" class="hole"/>
+  <circle cx="990" cy="33.0" r="9" class="hole"/>
+
+  <line x1="46" y1="16" x2="46" y2="50" stroke="#c9b27a" stroke-width="2" stroke-dasharray="3 4"/>
+  <line x1="954" y1="16" x2="954" y2="50" stroke="#c9b27a" stroke-width="2" stroke-dasharray="3 4"/>
+
+  <text x="66" y="27" class="act">ACT IV</text>
+  <text x="66" y="49" class="ttl">SELECTED PROJECTS</text>
+</svg>

@@ -1,0 +1,117 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#141110"/>
+      <stop offset="100%" stop-color="#050403"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.1" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .bulb { fill: #3a1f18; filter: url(#glow); animation: chase 2.8s linear infinite; }
+      @keyframes chase {
+        0%   { fill: #3a1f18; }
+        6%   { fill: #ff8a65; }
+        16%  { fill: #3a1f18; }
+        100% { fill: #3a1f18; }
+      }
+      .title {
+        font-family: Georgia, 'Times New Roman', serif;
+        font-weight: 700; font-size: 40px;
+        fill: #ff8a65; letter-spacing: 5px;
+      }
+      .sub {
+        font-family: 'Courier New', monospace; font-weight: 700; font-size: 14px;
+        fill: #d68f3c; letter-spacing: 3px;
+        animation: flicker 3.6s ease-in-out infinite;
+      }
+      @keyframes flicker {
+        0%, 92%, 100% { opacity: 1; }
+        94% { opacity: 0.55; }
+        96% { opacity: 1; }
+        97% { opacity: 0.65; }
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="900" height="170" fill="url(#bg)"/>
+  <rect x="15" y="15" width="870" height="140" rx="6" fill="none" stroke="#2a2115" stroke-width="2"/>
+  <circle cx="15.0" cy="38.0" r="4.2" class="bulb" style="animation-delay:0.000s"/>
+    <circle cx="15.0" cy="64.0" r="4.2" class="bulb" style="animation-delay:0.037s"/>
+    <circle cx="15.0" cy="90.0" r="4.2" class="bulb" style="animation-delay:0.074s"/>
+    <circle cx="15.0" cy="116.0" r="4.2" class="bulb" style="animation-delay:0.111s"/>
+    <circle cx="15.0" cy="142.0" r="4.2" class="bulb" style="animation-delay:0.147s"/>
+    <circle cx="40.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.184s"/>
+    <circle cx="66.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.221s"/>
+    <circle cx="92.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.258s"/>
+    <circle cx="118.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.295s"/>
+    <circle cx="144.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.332s"/>
+    <circle cx="170.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.368s"/>
+    <circle cx="196.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.405s"/>
+    <circle cx="222.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.442s"/>
+    <circle cx="248.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.479s"/>
+    <circle cx="274.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.516s"/>
+    <circle cx="300.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.553s"/>
+    <circle cx="326.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.589s"/>
+    <circle cx="352.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.626s"/>
+    <circle cx="378.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.663s"/>
+    <circle cx="404.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.700s"/>
+    <circle cx="430.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.737s"/>
+    <circle cx="456.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.774s"/>
+    <circle cx="482.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.811s"/>
+    <circle cx="508.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.847s"/>
+    <circle cx="534.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.884s"/>
+    <circle cx="560.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.921s"/>
+    <circle cx="586.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.958s"/>
+    <circle cx="612.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:0.995s"/>
+    <circle cx="638.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:1.032s"/>
+    <circle cx="664.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:1.068s"/>
+    <circle cx="690.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:1.105s"/>
+    <circle cx="716.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:1.142s"/>
+    <circle cx="742.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:1.179s"/>
+    <circle cx="768.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:1.216s"/>
+    <circle cx="794.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:1.253s"/>
+    <circle cx="820.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:1.289s"/>
+    <circle cx="846.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:1.326s"/>
+    <circle cx="872.0" cy="155.0" r="4.2" class="bulb" style="animation-delay:1.363s"/>
+    <circle cx="885.0" cy="132.0" r="4.2" class="bulb" style="animation-delay:1.400s"/>
+    <circle cx="885.0" cy="106.0" r="4.2" class="bulb" style="animation-delay:1.437s"/>
+    <circle cx="885.0" cy="80.0" r="4.2" class="bulb" style="animation-delay:1.474s"/>
+    <circle cx="885.0" cy="54.0" r="4.2" class="bulb" style="animation-delay:1.511s"/>
+    <circle cx="885.0" cy="28.0" r="4.2" class="bulb" style="animation-delay:1.547s"/>
+    <circle cx="860.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:1.584s"/>
+    <circle cx="834.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:1.621s"/>
+    <circle cx="808.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:1.658s"/>
+    <circle cx="782.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:1.695s"/>
+    <circle cx="756.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:1.732s"/>
+    <circle cx="730.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:1.768s"/>
+    <circle cx="704.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:1.805s"/>
+    <circle cx="678.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:1.842s"/>
+    <circle cx="652.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:1.879s"/>
+    <circle cx="626.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:1.916s"/>
+    <circle cx="600.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:1.953s"/>
+    <circle cx="574.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:1.989s"/>
+    <circle cx="548.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.026s"/>
+    <circle cx="522.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.063s"/>
+    <circle cx="496.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.100s"/>
+    <circle cx="470.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.137s"/>
+    <circle cx="444.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.174s"/>
+    <circle cx="418.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.211s"/>
+    <circle cx="392.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.247s"/>
+    <circle cx="366.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.284s"/>
+    <circle cx="340.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.321s"/>
+    <circle cx="314.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.358s"/>
+    <circle cx="288.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.395s"/>
+    <circle cx="262.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.432s"/>
+    <circle cx="236.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.468s"/>
+    <circle cx="210.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.505s"/>
+    <circle cx="184.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.542s"/>
+    <circle cx="158.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.579s"/>
+    <circle cx="132.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.616s"/>
+    <circle cx="106.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.653s"/>
+    <circle cx="80.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.689s"/>
+    <circle cx="54.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.726s"/>
+    <circle cx="28.0" cy="15.0" r="4.2" class="bulb" style="animation-delay:2.763s"/>
+  <text x="450.0" y="79.0" text-anchor="middle" class="title">CURTAIN CALL</text>
+  <text x="450.0" y="117.0" text-anchor="middle" class="sub">THANKS FOR STOPPING BY &#8226; CATCH ME AFTER THE SHOW</text>
+</svg>

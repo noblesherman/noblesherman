@@ -14,9 +14,15 @@
 
 <br/>
 
-<img src="assets/act-1-about.svg" width="100%" alt="Act I — About Me"/>
+<div align="center">
 
-<br/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**🎫 ACT I · ABOUT ME**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 I'm a student at **Penn State University**, studying Enterprise Technology Integration in the College of Information Sciences and Technology. Outside of class, I build software for real organizations, real users, and real problems — mostly ones involving a box office.
 
@@ -43,9 +49,15 @@ A good chunk of what I build lives in private repos, since it backs real commerc
 
 <br/>
 
-<img src="assets/act-2-building.svg" width="100%" alt="Act II — What I'm Building"/>
+<div align="center">
 
-<br/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**🎫 ACT II · WHAT I'M BUILDING**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 <table>
 <tr>
@@ -100,9 +112,15 @@ The side stage — a freelance shop building sites for small businesses and nonp
 
 <br/>
 
-<img src="assets/act-3-tech.svg" width="100%" alt="Act III — Crew and Equipment"/>
+<div align="center">
 
-<br/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**🎫 ACT III · CREW AND EQUIPMENT**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 <table>
 <tr><td><b>Front of House</b><br/><sub>frontend</sub></td><td><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite"/></td></tr>
@@ -114,9 +132,15 @@ The side stage — a freelance shop building sites for small businesses and nonp
 
 <br/>
 
-<img src="assets/act-4-projects.svg" width="100%" alt="Act IV — Selected Projects"/>
+<div align="center">
 
-<br/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**🎫 ACT IV · SELECTED PROJECTS**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 | Show | Genre | Synopsis |
 |---|---|---|
@@ -126,9 +150,15 @@ The side stage — a freelance shop building sites for small businesses and nonp
 
 <br/>
 
-<img src="assets/act-5-beyond.svg" width="100%" alt="Act V — Beyond Software"/>
+<div align="center">
 
-<br/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**🎫 ACT V · BEYOND SOFTWARE**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 Not everything I do compiles. My hands-on experience also covers:
 
@@ -155,9 +185,15 @@ I like building software — but I like it more once it's survived contact with 
 
 <br/>
 
-<img src="assets/act-6-currently.svg" width="100%" alt="Intermission — Currently"/>
+<div align="center">
 
-<br/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**🎫 INTERMISSION · CURRENTLY**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 **Now playing:**
 - 🎓 Studying Enterprise Technology Integration at Penn State
@@ -167,9 +203,15 @@ I like building software — but I like it more once it's survived contact with 
 
 <br/>
 
-<img src="assets/act-7-connect.svg" width="100%" alt="Curtain Call — Get In Touch"/>
+<div align="center">
 
-<br/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**🎫 CURTAIN CALL · GET IN TOUCH**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 | | |
 |---|---|
